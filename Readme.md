@@ -1,3 +1,4 @@
+[//]: # (Image References)
 [image_0]: ./images/test_dataset.jpg
 [image_1]: ./images/Recorded_testdata.jpg
 [image_2]: ./images/obs_map.jpg
@@ -5,9 +6,6 @@
 [image_4]: ./images/sim_conf.jpg
 [image_5]: ./images/auto_run.jpg
 
-
-
-# -*- coding: utf-8 -*-
 """
 Created on Tue Jul 31 12:15:54 2018
 
