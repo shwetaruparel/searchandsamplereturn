@@ -6,14 +6,9 @@
 [image_4]: ./images/sim_conf.jpg
 [image_5]: ./images/auto_run.jpg
 
+*Created on Tue Jul 31 12:15:54 2018
+@author: Shweta *
 
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 31 12:15:54 2018
-
-@author: Shweta
-"""
 # Notebook Anaysis
 
 ## Testing on the provided test data. 
