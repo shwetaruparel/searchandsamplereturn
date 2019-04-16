@@ -1,4 +1,3 @@
-[//]: # (Image References)
 [image_0]: ./images/test_dataset.jpg
 [image_1]: ./images/Recorded_testdata.jpg
 [image_2]: ./images/obs_map.jpg
